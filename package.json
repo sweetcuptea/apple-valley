@@ -1,0 +1,21 @@
+{
+  "name": "apple-valley",
+  "displayName": "apple-valley",
+  "description": "a simple aesthetic color theme for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "apple valley",
+        "uiTheme": "vs-dark",
+        "path": "./themes/apple valley-color-theme.json"
+      }
+    ]
+  }
+}
