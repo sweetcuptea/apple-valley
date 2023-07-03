@@ -2069,5 +2069,6 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#272727",
     "debugExceptionWidget.border": "#353336"
-  }
+  },
+  "$schema": "vscode://schemas/color-theme"
 }
